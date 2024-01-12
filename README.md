@@ -8,7 +8,7 @@
 - 👨🏻‍🦰 I hope you've enjoyed getting to know me! Please reach out if you have any questions or inqueries.
 
 - 📫 LinkedIn: www.linkedin.com/in/wesley-lawson13    Gmail: wesleylawson13@gmail.com
-- ❗️ Resume: 
+- ❗️ Resume: https://docs.google.com/document/d/1Q18L45DikOJlw9-Jwo1Th6FNpoA91acY/edit?usp=sharing&ouid=117039808033418067627&rtpof=true&sd=true
   
 
 <!---
