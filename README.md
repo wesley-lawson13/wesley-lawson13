@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wes, I am currently a sophomore at Boston College in the Morrissey College of Arts and Sciences pursuing a B.S. in computer science.
 - 🌱 Through an enthusiastic approach to learning, I have developed a solid mathematical and technological foundation reflected by my proficiency in Python and Java.
-- 📝 I'm currently learning Java swing GUI in my spare time and C++ in my Computer Systems class at Boston College. 
+- 📝 I'm currently learning Java swing GUI in my spare time and C in my Computer Systems class at Boston College. 
 - 💪 Because of my prior work and leadership experiences, I approach each challenge with a strong sense of leadership, communication, and collaboration.
 - 🏀 I’m a huge fan of the Boston Celtics and Philadelphia Phillies, and enjoy all sports.
 - ✅ A few major goals of mine in the next year is to improve on my programming skills, run a half-marathon, and learn to play guitar.
