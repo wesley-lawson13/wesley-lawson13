@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Wes, I am currently a Junior at Boston College in the Morrissey College of Arts and Sciences pursuing a B.S. in computer science.
 - 🌱 Through an enthusiastic approach to learning, I have developed a solid mathematical and technological foundation reflected by my proficiency in Python and Java.
-- 📝 I'm currently learning Web Development in my spare time and have an interest in cybersecurity. 
+- 📝 I'm currently learning Django and React in my spare time and have an interest in backend web development. 
 - 💪 Because of my prior work and leadership experiences, I approach each challenge with a strong sense of leadership, communication, and collaboration.
 - 🏀 I’m a huge fan of the Boston Celtics and Philadelphia Phillies, and enjoy all sports.
 - ✅ A few major goals of mine in the next year is to improve on my programming skills, run a half-marathon, and learn to play guitar.
 - 🌆 I'm hoping to apply my skills to a summer internship in the software industry.
-- 👨🏻‍🦰 I hope you've enjoyed getting to know me! Please reach out if you have any questions or inqueries.
+- 👨🏻‍🦰 I hope you've enjoyed getting to know me! Please reach out if you have any questions or inquiries.
 
 - 📫 LinkedIn: www.linkedin.com/in/wesley-lawson13    Gmail: wesleylawson13@gmail.com
   
