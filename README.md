@@ -1,7 +1,7 @@
 # 💫 About Me:
 - Hi, I’m Wes. I am currently a Senior at Boston College in the Morrissey College of Arts and Sciences, pursuing a B.A. in computer science.
 - I have developed a technological foundation reflected by my proficiency in Python (Django) and Go, and have an interest in backend development.
-- Currently, I'm working on building a BitTorrent client and, through my coursework, am building out functionality within the xv6 operating system. <br><br>Thanks for checking out my profile! Please reach out if you have any questions. <br>
+- Currently, I'm working on building a Lord of the Rings themed URL shortener. Additionally, through my coursework, am building out functionality within the xv6 operating system. <br><br>Thanks for checking out my profile! Please reach out if you have any questions. <br>
 
 
 ## 🌐 Socials:
